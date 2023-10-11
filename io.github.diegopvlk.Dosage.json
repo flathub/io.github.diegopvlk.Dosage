@@ -5,7 +5,6 @@
 	"sdk": "org.gnome.Sdk",
 	"command": "io.github.diegopvlk.Dosage",
 	"finish-args": [
-		"--share=network",
 		"--share=ipc",
 		"--socket=fallback-x11",
 		"--device=dri",
@@ -55,7 +54,7 @@
 				{
 					"type": "git",
 					"url": "https://github.com/diegopvlk/Dosage",
-					"commit": "32645358cd3c3382785322ce201999d57b5959a4"
+					"commit": "8699476ad9fd25861c7c7045167692e90e469a8b"
 				}
 			]
 		}

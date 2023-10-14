@@ -55,7 +55,7 @@
 				{
 					"type": "git",
 					"url": "https://github.com/diegopvlk/Dosage",
-					"commit": "9461649f0fd90012da3c7b2a6f20d39df7ae700b"
+					"tag": "v1.0.2"
 				}
 			]
 		}

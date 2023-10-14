@@ -8,7 +8,8 @@
 		"--share=ipc",
 		"--socket=fallback-x11",
 		"--device=dri",
-		"--socket=wayland"
+		"--socket=wayland",
+        	"--system-talk-name=org.freedesktop.login1"
 	],
 	"cleanup": [
 		"/include",
@@ -54,7 +55,7 @@
 				{
 					"type": "git",
 					"url": "https://github.com/diegopvlk/Dosage",
-					"commit": "8699476ad9fd25861c7c7045167692e90e469a8b"
+					"commit": "9461649f0fd90012da3c7b2a6f20d39df7ae700b"
 				}
 			]
 		}

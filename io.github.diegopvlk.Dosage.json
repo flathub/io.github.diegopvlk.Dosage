@@ -26,8 +26,8 @@
 				{
 					"type": "git",
 					"url": "https://github.com/flatpak/libportal",
-					"tag": "0.9.1",
-					"commit": "8f5dc8d192f6e31dafe69e35219e3b707bde71ce"
+					"tag": "0.10.0",
+					"commit": "c23024018c8eb076549a1517fcb2d7f80d3e2ed5"
 				}
 			]
 		},
@@ -39,8 +39,8 @@
 				{
 					"type": "git",
 					"url": "https://github.com/diegopvlk/Dosage",
-					"tag": "v2.1.7",
-					"commit": "a0a87a2d958b66cda67dffb5c21d2e8bb8837953"
+					"tag": "v2.1.8",
+					"commit": "b11e8906bee56a289747b996e2d2e3273f260290"
 				}
 			]
 		}
